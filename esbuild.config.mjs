@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 /** @type{import("esbuild").BuildOptions} */
 
 import esbuild from 'esbuild'
